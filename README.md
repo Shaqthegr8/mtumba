@@ -5,6 +5,10 @@
 
 In many secondhand marketplaces, both buyers and sellers face risks of fraud, non-delivery of goods, and limited access to reliable payment methods. **Mtumba** provides a secure solution through blockchain-based escrow contracts, ensuring transparency and trust in every transaction. M-Pesa integration ensures accessibility for users in regions where traditional banking is limited, while Privado ID enhances security through decentralized identity verification.
 
+I used simple data mockup to illuistrate the application:
+![image](https://github.com/user-attachments/assets/6efe12d8-84d2-4668-a364-6e0268f0004d)
+
+
 ---
 
 ## **Key Features**
