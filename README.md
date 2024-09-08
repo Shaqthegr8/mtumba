@@ -1,7 +1,3 @@
-Here's a descriptive **README.md** file that you can use for your GitHub repository. It covers everything from the problem your project solves to the technologies used, installation steps, and a brief description of how the platform works.
-
----
-
 # **Mtumba - A Secure Secondhand Marketplace**
 
 ## **Project Overview**
