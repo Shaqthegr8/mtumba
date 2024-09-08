@@ -135,8 +135,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 
-For any questions or issues, feel free to open an issue or reach out at [your-email@example.com].
+For any questions or issues, feel free to open an issue or reach out at [tonyshaq11@gmail.com].
 
 ---
 
-This README should cover all aspects of your project, making it easy for others to understand its purpose, how to use it, and how to contribute. Let me know if you'd like to tweak anything further!
